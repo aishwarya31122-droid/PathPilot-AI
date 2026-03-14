@@ -12,3 +12,9 @@ User Input → Knowledge Retrieval → LLM → Answer
 
 ## Example Query
 "I know Python and Data Analysis. Suggest jobs for me."
+
+## Live Chatbot
+
+Try the PathPilot AI chatbot here:
+
+[https://cloud.dify.ai/app/xxxxx](https://udify.app/chat/EZ80bmxho27JC30k)
